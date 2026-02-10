@@ -1,6 +1,6 @@
 // -----------------------------------------------------------------------------
 // File        : fifo.sv
-// Author      : Prajwal Bharadwaj D H (1BM23EC186)
+// Author      : Varsha R
 // Created     : 2026-01-30
 // Module      : fifo
 // Project     : SystemVerilog and Verification (23EC6PE2SV),
