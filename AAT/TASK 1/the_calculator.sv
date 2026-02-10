@@ -1,6 +1,6 @@
 // -----------------------------------------------------------------------------
 // File        : the_calculator.sv
-// Author      : Prajwal Bharadwaj D H (1BM23EC186)
+// Author      : Varsha R (1BM23EC284)
 // Created     : 2026-01-28
 // Module      : alu
 // Project     : SystemVerilog and Verification (23EC6PE2SV),
