@@ -1,6 +1,6 @@
 // -----------------------------------------------------------------------------
 // File        : priority_encoder_tb.sv
-// Author      : Prajwal BHaradwaj D H
+// Author      : Varsha R
 // Created     : 2026-01-22
 // Module      : tb
 // Project     : SystemVerilog and Verification (23EC6PE2SV),
