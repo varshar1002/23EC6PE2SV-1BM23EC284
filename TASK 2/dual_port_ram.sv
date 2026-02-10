@@ -1,6 +1,6 @@
 // -----------------------------------------------------------------------------
 // File        : dual_port_ram.sv
-// Author      : Prajwal Bharadwaj D H (1BM23EC186)
+// Author      : Varsha R
 // Created     : 2026-02-03
 // Module      : dual_port_ram
 // Project     : SystemVerilog and Verification (23EC6PE2SV),
